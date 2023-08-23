@@ -1,0 +1,3 @@
+ruby
+poshy-wrap
+pwshrc
